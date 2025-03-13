@@ -2,8 +2,8 @@
 
 ---
 
-## Introduction for Students
-Hello, class! Today, we’re going to build a **Voice Controlled RGB Light** project. That means we’ll use our **voices** to change the color of a light—just like magic! This activity will help you learn how to connect your app to a **Bluetooth** device and use **speech recognition** to control **RGB** (Red, Green, Blue) lights.
+## Introduction
+Hello, amigos! Today, we’re going to build a **Voice Controlled RGB Light** project. That means we’ll use our **voices** to change the color of a light—just like magic! This activity will help you learn how to connect your app to a **Bluetooth** device and use **speech recognition** to control **RGB** (Red, Green, Blue) lights.
 
 Let’s have some fun while learning important technology skills!
 
